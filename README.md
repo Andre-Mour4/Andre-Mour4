@@ -6,18 +6,10 @@
 ## 👨‍💻 Sobre Mim
 Profissional em formação na área de Tecnologia da Informação, com experiência prática em suporte técnico e manutenção de equipamentos na ABC da Construção S.A. Comprometido com aprendizado contínuo, desenvolvimento na área de Engenharia de Software e criação de soluções com impacto real.
 
-💼 **Jovem Aprendiz — Suporte em TI** · ABC da Construção S.A.<br>
+💼 **Suporte em TI** · ABC da Construção S.A.<br>
 🎓 **Cursando Engenharia de Software** — UniAcademia (2026)<br>
 📍 Juiz de Fora, MG — Brasil<br>
 📧 andrejf2006@gmail.com
-
----
-
-## 🚀 Projetos em Destaque
-
-**🤖 Automação com IA para ONG "Sonho de um Menino"**
-* **Papel:** Analista de Dados / Desenvolvedor (Projeto de Extensão Universitária em equipe de 5 pessoas).
-* **Descrição:** Desenvolvimento de um agente de automação de WhatsApp utilizando Inteligência Artificial para otimizar a comunicação e o processo de doações da instituição, gerando impacto social através da tecnologia.
 
 ---
 
@@ -63,8 +55,8 @@ Profissional em formação na área de Tecnologia da Informação, com experiên
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andre-Mour4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Mour4&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Andre-Mour4&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Mour4&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
@@ -74,6 +66,7 @@ Profissional em formação na área de Tecnologia da Informação, com experiên
 <div align="center">
   <a href="https://www.linkedin.com/in/andré-moura-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:andrejf2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  
 </div>
 <br>
 <div align="center">
