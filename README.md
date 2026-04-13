@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Olá, eu sou André Silva de Moura 👋</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=550&lines=Suporte+em+TI+%7C+Jovem+Aprendiz;Estudante+de+Engenharia+de+Software;Apaixonado+por+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=550&lines=Suporte+em+TI+%7C+Jovem+Aprendiz;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Sobre Mim
