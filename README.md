@@ -55,8 +55,10 @@ Profissional em formação na área de Tecnologia da Informação, com experiên
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Andre-Mour4&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Mour4&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-Mour4&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Mour4&layout=compact&langs_count=6&theme=tokyonight)
+
 </div>
 
 ---
